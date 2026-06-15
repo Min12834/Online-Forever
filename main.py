@@ -3,7 +3,7 @@ import json
 import requests
 import websockets
 
-TOKEN = "MTI3NTE1MjM2Mjc4ODQ4NzI5NQ.GuOgZ3.HJMVc389Lfa3aIDbDLgX3Mu91Ldk0Cx76bLlxU"
+TOKEN = "MTI3NTE1MjM2Mjc4ODQ4NzI5NQ.GsJ2_-.oR03x7pqp3_SXI4YAAYgv3-7xeAFdnVupsl8Lg"
 STATUS = "dnd"  # online / dnd / idle
 CUSTOM_STATUS = "✅ 1.5$ Rust, cheatvault.net"
 USE_EMOJI = False
