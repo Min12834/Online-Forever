@@ -6,7 +6,6 @@ import websockets
 TOKEN = "MTI3NTE1MjM2Mjc4ODQ4NzI5NQ.GuOgZ3.HJMVc389Lfa3aIDbDLgX3Mu91Ldk0Cx76bLlxU"
 STATUS = "dnd"  # online / dnd / idle
 CUSTOM_STATUS = "✅ 1.5$ Rust, cheatvault.net"
-"  # Leave empty if you don't want a custom status
 USE_EMOJI = False
 
 headers = {"Authorization": TOKEN}
